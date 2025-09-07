@@ -38,7 +38,7 @@ I am using a **UGREEN NASync DXP2800** as my server
 ### Option 2: Using Command Line (Linux/WSL/macOS)
 1. Pull the Technitium DNS Image
 docker pull technitium/dns-server
-3. Run the Container in Host Mode
+3. Run the Container in Host Mode  
 docker run -d \
   --name technitium-dns \
   --network host \
