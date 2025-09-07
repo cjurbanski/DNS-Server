@@ -84,9 +84,9 @@ At the top of your Technitium web UI go to **Settings** --> **Blocking**
 Scroll down until you see **Allow/Block List URLs**
 - From here you can either
     1. Select a premade block list URL from **Quick Add**
-       - These are dynamically updated with the latest URLs for new Ad/Malicious sites
+       - These are dynamically updated with the latest advertisement, collection, and malicious domains
        - I recommend using a premade block list for best coverage
-    2. Create your own block list text file and follow the URL format listed in the description
+    2. Create your own domain block list text file and follow the URL format listed in the description
        - Ex.  On Linux the URL should look like file:///home/folder/myblocklist.txt and on Windows it should look like file:///c:/folder/myblocklist.txt
 
   
